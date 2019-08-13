@@ -1,0 +1,125 @@
+Icebox
+
+chat bot: As a user I want a chat box to suggest new features or services so that I don't have to get out of the app and user another app
+
+send money: As a user I want to be able to send money so that I don't have use another app
+
+draw pictures: As a user I want to be able to send cute drawings so that I can share my creativity
+
+temporary messages: As a user I want my messages to be hidden after a while so that I have more privacy
+
+order a pizza: As a user I want to be able to order a pizza in the app so that I don't have use another app
+
+book a hotel room: As a user I want to be able to book a hotel in the app so that I don't have use another app
+
+video chat filters: As a user I want filters so that I can make people laugh on my video chats
+
+secret crushes: As a user I want users to be able to mark their secret crush so that I can know who's into me
+
+live streaming: As a user I want to be able to share via video in live so that people can experience it with me
+
+order Starbucks: As a user I want to be able to order Starbucks in the app so that I don't have use another app
+
+virtual assistant: As a user I want a virtually assistant to help me with daily tasks so that there is less on my mind
+
+troll bot: 
+
+deleting account and flush all data: As a user I want to be able o delete my complete profile and all my data so that my privacy is protected
+
+encryption: As A user I want my messages to be encrypted so that my privacy is protected
+
+verified badge: AS a user I want to be know that I am chatting with a real person so that I don't get caught by malicious people
+
+friend finder: As a user I want to be able to find friends nearby so that I can message them to meet up
+
+Location: As a user I want to share my home city so that other users can connect with me
+
+archive conversationsL As a user I want to be archive convos so that I keep my convos organized
+
+threadception: As a user I want to be able to start a thread so that the channels are kept organized
+
+tagging: As a user I want to be able to ping someone in particular so that they know that this message is important to them
+
+video chat: As a user I want to be able to talk face to face with some so that I can see my family even if I leave far away
+
+themes: As a user I want to be able to personalize the app so that it suits my mood
+
+assign tasks to people: As a user I want people to keep track of their tasks so that things get done
+
+embdedded video: As a user I want to watch videos inside the app so that I am not taken to another app
+
+audio messages: As a user I want to be able to send voice message so that I can sing
+
+translation: As a user I want messages translated so that I can chat with people who speak other languages
+
+group video chat:  As a user I want to be able to talk face to face with several people so that I can see my family even if I leave far away
+
+games: As a user I want to be able to play games inside the app so that I don't have to use another app
+
+plugins: As a user I want to tailor the app so that it is relevant to how I use it
+
+messages while in video chat: As a user I want to be able to send messages to anyone event when on a video chat so that I can keep chatting
+
+send code snippets with syntax highlighting: As a user I want to be able to send code snippets with the right syntax so I can help or be helped by with a coding problem
+
+edit message after sending: As a user I want to edit message after send so that I can correct my typos
+
+delayed drunk sending: As a user I want my app to delay in my message so that I can be sure I really mean to send it
+
+drunk mode - asks you math questions before you can send: As a user I want the app to help me when I drink so that I don't drunk text someone
+
+biometric sign in: As a user I want a smooth sign in experience so that I don't have to remember my password daily
+
+social groups: As a user I want the app to suggest social groups based on my interest so that I can connect with new people
+
+marketplace: As a user I want to shop nearby marketplaces so that I can buy local second hand stuffs
+
+mute button: As a user I want to mute conversation so that I can ignore until later
+
+google / facebook sign-in: As a user I want to use 3rd party secure logins so that I don't have to create yet another profile
+
+language filter: 
+
+send gifts: As a user I want to be able to send gifts so that I don't have use another app
+
+event calendar / reminder: As a user I want to be able to be reminded of event so that I don't have to use another app
+
+recommendations: 
+
+parental controls: As a user I want to protect the content so that my children are not exposed to bad content
+
+text completion: As a user I want to text completion to suggest the next word so that I can type faster
+
+message templates: As a user I want templates so that I can draft messages faster
+
+truncate long messages: As a user I want longer message to be truncated so that the entire chat is easier to read
+
+uploading files: As a user I want to be able to send files so that I don't have to use emails
+
+downloading files As a user I want to download the content sent to me so that I can see it
+
+settings: As user I want a settings feature so that I can adjust the app to my usage
+
+forward messages: As a user I want forward so that I can share messages with other users
+ 
+speech to text: As a user I want to be able to dictate my text so that I can chat event when I can't type
+
+exception handling: 
+
+DND: As a user I want to DND app so that I don't get interrupted and can focus on other things
+
+muting chats: As a user I want to mute chats so that I can ignore when not relevant to me
+
+email notifications: As a user I want to be notified via email so that I know when a new message comes in
+
+invite to chat via url:
+
+captcha on register: As a user I want captcha feature so that there is no bot users
+
+spell checker: As a user I want to spellcheck so that my message don't have errors
+
+language selection: 
+
+profile preferences: 
+
+teach you how to use: As a user I want to tutorials so that I can use the app to its full potential

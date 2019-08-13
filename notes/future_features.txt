@@ -1,0 +1,56 @@
+Future Features
+
+Online Status: As a user I want people to know when I am available so that I can manage my their expectations on my reply timeframe
+
+Emojis: As a user I want to lighten up the conversation with Emojis so that it is not all boring
+
+pin a conversation: As a user I want to be able to keep my favorite convo handy so that I find faster
+
+sounds: As a user I want sounds to differentiate the type of message in different channels
+
+groups: 
+
+
+link preview: As a user I want to see what the link is about so that I don't have to click on it if it is not the right time to read it
+
+command line operations: 
+
+format text: As a user I want to be able to change the font color, size and background so that it is adjusted to my comfort
+
+read status: As a user I want to be able to see if my message was read so that I know the message status
+
+User Profile: As a user I want people to know who I am and what I do so that their message are relevant to me
+
+Contact List: As a user I want to have a contact list so that I can know who I can contact
+
+Add friends: As a user I want to be able to add new contacts to the app so that I can message them
+
+Delete Friends: As a user I want to be able to delete contact so that my contact list remains manageable
+
+profile picture: As a user I want my contacts to see my picture so that they put a face to the name
+
+block list: As a user I want to be able to block certain contacts so that I protect myself from annoying people
+
+notifications: As a user I want to know when a new message arrives so that I can go in the app to check it
+
+search bar: As a user I want to be able to search for contacts and words in my conversations so that I can read back on old messages on a specific topic
+
+group messaging: As a user I want to be able to have a separate conversation with a group of people so that it stays private to the rest of the users
+
+registration / sign up: As a user I want to be able to sign up so that I can use it on different devices
+
+mobile version: As a user I want a mobile version so that I can continue chats on the go
+
+log in: As a user I want to be able to log in so that my messages are privates and only seen by me
+
+log out: As a user I want to be able to log out so that my privacy is protected
+
+profile with social links: As a user I want my contacts to find me on other social platforms so that they can follow me
+
+change your password: As a user I want to be able to change my password so that I protect my account
+
+forgot password: As a user I want a process to rest my password so that I log back in my account again
+
+send gifs: As a user I want to lighten the mood with gifs so that the chats are more friendly
+
+push notifications: As a user I want to know instantaneously when a new message arrives so that I can go in the app to check it

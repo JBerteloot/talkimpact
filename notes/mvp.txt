@@ -1,0 +1,13 @@
+MVP - Minimum Viable Product
+
+Sidebar with conversations: As a user I want an area page that will show messages so that I can see the messages that are sent to whatever room I'm in.
+
+Chat Window: As a user I want to be able to see all of the rooms that I'm participating in.
+
+Logo-Name: As a user I want to know what app chat I am using so that I don't confuse it with another one
+
+timestamp on messages: As a user I want to know the time/day message are sent/received so that I can keep track of the conversation in time
+
+direct messaging: As a user I want to be able to message someone directly so that it is a private conversation
+
+channels: As a user I want channels to separate conversation topics so that my messages are organized

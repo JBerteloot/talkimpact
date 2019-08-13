@@ -1,0 +1,29 @@
+As a ______ I want ______ so that ______
+
+
+
+MVP:
+
+As a user I want an area page that will show messages so that I can see the messages that are sent to whatever room I'm in.
+
+As a user I want to be able to see all of the rooms that I'm participating in.
+
+As a user I want to know what app chat I am using so that I don't confuse it with another one
+
+As a user I want to know the time/day message are sent/received so that I can keep track of the conversation in time
+
+As a user I want to be able to message someone directly so that it is a private conversation
+
+As a user I want channels to separate conversation topics so that my messages are organized
+
+
+Future Features:
+
+As a user I want people to know when I am available so that I can manage my their expectations on my reply timeframe
+
+As a user I want to lighten up the conversation with Emojis so that it is not all boring
+
+As a user I want to be able to keep my favorite convo handy so that I find faster
+
+As a user I want sounds to differentiate the type of message in different channels
+
