@@ -1,13 +1,51 @@
 MVP - Minimum Viable Product
 
-Sidebar with conversations: As a user I want an area page that will show messages so that I can see the messages that are sent to whatever room I'm in.
 
-Chat Window: As a user I want to be able to see all of the rooms that I'm participating in.
+Chat Window: 
+
+*As a user I want an area page that will show messages so that I can see the messages that are sent to whatever room I'm in.
+
+*As a user, I want a form that I can fill out so that I can send messages to people.
+
+*As a user, I want to be able to format the text in the form so that I can change what the text looks like.
+
+*As a user, I want to be able to add images by just copying/pasting a link to an image.
+
+*As a user, I want to be able to automatically see when an image link that the image appears automatically.
+
+As a user, I want to be able to see messages as they happen formatted in the way they were sent.
+
+As a user, I want to have videos automatically embedded when link is provided.
+
+*As a user, I want my name to appear next to each message I send.
+
+As a user I want to be able to see who  is in each channel I participate in
+
+
+-----------------
+Sidebar with conversations: 
+
+* As a user I want my channels appear in the sidebar so that I can navigate back and forth between rooms.
+
+* As a user, I want to have all my direct convo appear in the side back so that I can navigate back and forth between convos.
+
+* As a user, I want my channels and private convo to be separated so I can differentiate them clearly.
+
+--------------------
+
+direct messaging: 
+
+As a user I want to be able to send a message directly to another user either in my friends list or in a room.
+
+As a user I want to be able to message someone directly so that it is a private conversation
+
+------------------
+
+timestamp on messages: 
+*As a user, I want to see a timestamp on the message so that I know when it was sent.
+
+
+--------------------
 
 Logo-Name: As a user I want to know what app chat I am using so that I don't confuse it with another one
 
-timestamp on messages: As a user I want to know the time/day message are sent/received so that I can keep track of the conversation in time
-
-direct messaging: As a user I want to be able to message someone directly so that it is a private conversation
-
-channels: As a user I want channels to separate conversation topics so that my messages are organized
