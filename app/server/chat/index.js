@@ -1,12 +1,27 @@
 function init(io) {
+  let users = []
+
+  function logout(id) {
+    users = users.filter(user => user.id !== id)
+  }
+
   io.on('connection', function (socket) {
-    console.log('socket is connected')
-    console.log(socket.id)
+    socket.on('login', username => {
+      users.push({
+        username: username,
+        id: socket.id
+      })
 
-    socket.on('name', name => {
-      console.log(name)
+      io.emit('new user', user)
+    })
 
-      io.emit('new person', name)
+    socket.on('logout', () => {
+      logout(socket.id)
+    })
+
+    //user is disconnected when clicking logout or closing the browser
+    socket.on('disconnect', () => {
+      logout(socket.id)
     })
   })
 }
