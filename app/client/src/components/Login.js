@@ -18,9 +18,9 @@ export default props => {
     authorized 
       ? <Redirect to='/general' />
       : <div className="login">
-          <h1>Login</h1>
+          <h1>Register to enter the Chat</h1>
           <form onSubmit={handleSubmit}>
-            <input type="text" value={username} onChange={e => setUsername(e.target.value)} placeholder="Enter a username" />
+            <input type="text" value={username} onChange={e => setUsername(e.target.value)} placeholder="Enter your name" />
             <button type='submit'>Submit</button>
           </form>
         </div>

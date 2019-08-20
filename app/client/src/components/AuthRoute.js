@@ -6,9 +6,4 @@ export default props => {
   const authorized =  useSelector(appState => appState.authReducer.username)
 
     return authorized ? <Route {...props} /> : <Redirect to='/' />
-    
-      
-    
-   
-  
-}
+} 

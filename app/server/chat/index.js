@@ -1,5 +1,6 @@
 function init(io) {
   let users = []
+  let rooms = []
 
   function logout(id) {
     users = users.filter(user => user.id !== id)
@@ -7,12 +8,38 @@ function init(io) {
 
   io.on('connection', function (socket) {
     socket.on('login', username => {
-      users.push({
+      const user = {
         username: username,
-        id: socket.id
+        id: socket.id 
+      }
+      
+      users.push(user)
+      socket.join('general')
+
+      if (rooms.filter(room => room.name === 'general').length === 0) {
+        rooms.push({
+          name: 'general',
+          users: [user]
+        })
+      } else {
+        rooms.find(room => room.name === 'general').users.push(user)
+      }
+
+      io.to('general').emit('new user', {
+        room: 'general',
+        user: user 
       })
 
-      io.emit('new user', user)
+      console.log(rooms)
+    })
+
+    socket.on('join', room => {
+      socket.join(room)
+    })
+
+    socket.on('new message', message => {
+      console.log(message)
+      io.to(message.room).emit('new message', message)
     })
 
     socket.on('logout', () => {
