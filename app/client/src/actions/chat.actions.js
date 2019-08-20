@@ -1,6 +1,7 @@
 import store from '../store'
 import socket from '../socket'
 
+
 export function sendMessage(message, font, color, room) {
   const username = store.getState().authReducer.username
 
@@ -11,7 +12,8 @@ export function sendMessage(message, font, color, room) {
     }, 
     username: username,
     text: message,
-    room: room
+    room: room,
+    time: new Date()
   }
 
   console.log(msg)
@@ -24,7 +26,6 @@ export function join(room) {
 }
 
 socket.on('new message', message => {
-  console.log(message)
   store.dispatch ({
     type:  'ADD_MESSAGE',
     payload: message
